@@ -4,9 +4,9 @@
 define('mysqli_host','localhost');  
 # Логин БД
 define('mysqli_login',''); 
-# Пароль БД
-define('mysqli_db','');    
 # Имя БД
+define('mysqli_db','');    
+# Пароль БД
 define('mysqli_ps',''); 
 
 ## Информация о сайте
